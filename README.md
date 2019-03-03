@@ -4,7 +4,7 @@ Oppgaven består i å bruke HTML til å lage sidene til fiktiv blogg. Det skal b
 
 Tekst kan være lorem ipsum, for bilde(r) bruk f.eks. [unsplash.com](https://unsplash.com/) eller [lorempixel.com](http://lorempixel.com/)
 
-Bloggen har 3 sider:
+**Bloggen har 3 sider:**
 * Hovedside 
   * Et hovedbilde øverst
   * Minst tre artikkler med heading og tekst. Hver artikkeltekst skal være minst to paragrafer.
@@ -13,7 +13,7 @@ Bloggen har 3 sider:
 
 Alle sidene skal ha en header og en meny øverst og en footer nederst. Disse skal være like for alle sidene. Menyalternativene skal linke til de forskjellige sidene.
 
-Tilleggsutfordringer:
+**Tilleggsutfordringer:**
 * Legg inn bilde for hver artikkel
 * Fremhev første avsnitt av hver artikkel.
 * Lag en `<aside>` med valgfritt innhold
