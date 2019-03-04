@@ -1,5 +1,6 @@
 # HTML Oppgave 01 - Lag HTML-sidene til en fiktiv blogg
-#[https://classroom.github.com/a/_a-dfNSE](https://classroom.github.com/a/_a-dfNSE)
+[https://classroom.github.com/a/_a-dfNSE](https://classroom.github.com/a/_a-dfNSE)
+
 Oppgaven består i å bruke HTML til å lage sidene til fiktiv blogg. Det skal brukes semantiske tagger der det er hensiktsmessig.
 
 Tekst kan være lorem ipsum, for bilde(r) bruk f.eks. [unsplash.com](https://unsplash.com/) eller [lorempixel.com](http://lorempixel.com/)
