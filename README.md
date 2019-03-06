@@ -20,6 +20,15 @@ Alle sidene skal ha en header og en meny øverst og en footer nederst. Disse ska
 * Lag en `<aside>` med valgfritt innhold
 * I steden for å vise hele artikkelen på hovedsiden, vis kun førsteparagraf og lag en "Les mer" link som linker til separate sider for hver artikkel.
 
+**Tilleggsutfordringer 1b (litt enklere)**
+* Bruk samme CSS (css-fil) på alle sidene
+* Gi headinger en egen farge
+* Endre tekststørrelsen på vanlig tekst
+* Gi artiklene en bakgrunnsfarge
+* Gi <aside> en egen bakgrunnsfarge
+* Sett bredden på bildene til 50%
+ 
+
 **Tilleggsutfordringer del 2:**
 * Header skal inneholde logo til venstre (finn egnet grafikk på nett)
 * Meny skal være horisontal og ligge til høyre
