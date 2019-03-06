@@ -19,3 +19,9 @@ Alle sidene skal ha en header og en meny øverst og en footer nederst. Disse ska
 * Fremhev første avsnitt av hver artikkel.
 * Lag en `<aside>` med valgfritt innhold
 * I steden for å vise hele artikkelen på hovedsiden, vis kun førsteparagraf og lag en "Les mer" link som linker til separate sider for hver artikkel.
+
+**Tilleggsutfordringer del 2:**
+* Header skal inneholde logo til venstre (finn egnet grafikk på nett)
+* Meny skal være horisontal og ligge til høyre
+* Artikler skal være adskilte med margin og/eller padding. Bruk gjerne også annen bakgrunnsfarge og/eller ramme.
+* Legg inn en todelt seksjon slik som "Hva kan vi gjøre for deg" på smartstudy.no
